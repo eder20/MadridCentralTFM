@@ -11,7 +11,7 @@
     "drizzle": "^1.4.0",
     "node-libs-react-native": "^1.0.3",
     "react": "16.8.3",
-    "react-native": "0.59.8",
+    "react-native": "0.62.3",
     "react-native-randombytes": "^3.5.3",
     "vm-browserify": "^1.1.0"
   },
